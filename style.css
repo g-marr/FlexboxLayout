@@ -6,7 +6,7 @@
     font-style: normal;
 }
 body {
-    background: url("/pictures/pinkbackground.png") no-repeat fixed top center;
+    background: url("background/pinkbackground.png") no-repeat fixed top center;
     display: flex;
     flex-direction: column;
     align-items: center;
